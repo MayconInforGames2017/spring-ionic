@@ -13,6 +13,7 @@
 	<artifactId>backend-ionic_spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backend-ionic_spring</name>
+	<packaging>jar</packaging>
 	<description>Tutorial de uma aplicação desenvolvida no curso da udemy</description>
 
 	<properties>
